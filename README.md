@@ -6,5 +6,5 @@
 
 ## WAVEFORM
 
-![WAVEFORM](/waveform)
+![WAVEFORM](/waveform.png)
    
